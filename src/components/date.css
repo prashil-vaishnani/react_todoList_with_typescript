@@ -1,0 +1,29 @@
+.date_row {
+  font-size: 30px;
+  text-decoration: solid black;
+  justify-content: center;
+  width: 12%;
+}
+.month_row {
+  font-size: 15px;
+  justify-content: center;
+  width: 7%;
+}
+.year_row {
+  font-size: 12px;
+  justify-content: center;
+  width: 7%;
+}
+.tbl {
+  padding-left: 5%;
+  padding-top: 5%;
+  width: 100%;
+}
+.day_row {
+  font-size: 15px;
+  text-align: right;
+  padding-right: 10%;
+}
+.sticky-tbl {
+  position: sticky;
+}
