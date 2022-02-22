@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./date.css";
 
-export const DateTime = () => {
+export const DateTime = ():JSX.Element => {
   var [date, setDate] = useState<Date>(new Date());
   const weekday: string[] = [
     "Sunday",
